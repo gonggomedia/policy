@@ -1,2 +1,2 @@
-policy
-======
+Policies used in GonggoMedia.com
+================================
